@@ -1,0 +1,25 @@
+"aa  p |cccdpz|xx dpz|e r   |evr qq| v ll |"
+
+a 2
+p 1
+c 0
+d 3
+z 2
+x 1
+e 1
+r 1
+v 1
+q 1
+l 2
+----
+15
+
+# Test Inputs
+# "  o aa|  o   |xxo   |ppp  q|     q|     q"
+# "  ooo |ppp q |xx  qa|rrr qa|b c dd|b c ee"
+# "aa  p |cccdpz|xx dpz|e r   |evr qq| v ll "
+# "      |     a|     a|     a|      |      "
+
+Solved State
+
+"  ooo |ppp   | uu xx|rrr   |b c dd|b c ee"
